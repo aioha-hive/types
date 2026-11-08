@@ -29,6 +29,6 @@
   "packageManager": "pnpm@10.28.1",
   "devDependencies": {
     "@hiveio/dhive": "^1.3.6",
-    "typescript": "^5.9.3"
+    "typescript": "^7.0.2"
   }
 }
